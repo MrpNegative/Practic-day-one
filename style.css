@@ -69,3 +69,23 @@ ul > li:hover{
 section{
   margin-top: 2%;
 }
+table{
+  margin: 50px;
+  border-collapse: collapse;
+}
+tr{
+  border-collapse: collapse;
+}
+td{
+  border: 1px solid red;
+  text-align: center;
+  white-space: nowrap;
+  padding: 0 10px;
+}
+caption{
+  font-style: 30px;
+  font-weight: 900;
+}
+thead td{
+  font-weight: 900;
+}
